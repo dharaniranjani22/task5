@@ -1,0 +1,10 @@
+body{
+    background-color: burlywood;
+}
+body input{
+    width: 144x;
+    height: 40px;
+}
+body button{
+    background-color: blueviolet;
+}
